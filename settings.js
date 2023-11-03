@@ -2,7 +2,7 @@ const fs = require('fs')
 
 global.creator = 'Dudi permana'// yourname
 global.MONGO_DB_URI = "mongodb+srv://dudipermana:300503dudi@cluster1.w5uyhpp.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
-global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
+global.ACTIVATION_TOKEN_SECRET = "-@dudipermana(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "dudypermana04@gmail.com" //email
 global.email_password = "rufafdzpklfkmgff" //application password email
 global.limitCount = 10000
